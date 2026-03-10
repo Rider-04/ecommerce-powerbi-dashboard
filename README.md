@@ -63,7 +63,7 @@ This project includes 7 analytical dashboards:
 
 ### Executive Overview
 
-![Executive Overview](dashboards/2.Executive_Overview.png)
+![Executive Overview](dashboards/Executive_Overview.png)
 
 ### Sales Performance
 
@@ -75,7 +75,7 @@ This project includes 7 analytical dashboards:
 
 ### Customer Analysis
 
-![Customer Analysis](dashboards/Customer_Analysis.png)
+![Customer Analysis](dashboards/Cusotmer_Analysis.png)
 
 ### Seller Analysis
 
