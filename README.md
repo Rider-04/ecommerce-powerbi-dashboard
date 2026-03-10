@@ -61,6 +61,10 @@ This project includes 7 analytical dashboards:
 
 ## Dashboard Previews
 
+### Introduction
+
+![Introduction](dashboards/Intro_Dashboard.png)
+
 ### Executive Overview
 
 ![Executive Overview](dashboards/Executive_Overview.png)
